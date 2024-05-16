@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Skilled in crafting intuitive user interfaces with HTML, CSS, and JavaScript, ensuring seamless user experiences"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Exploring server-side development with Python, learning to build basic applications and databases to support dynamic websites"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Graphics Design",
+      "description": "Experienced in creating visually stunning designs that captivate audiences and enhance brand identities using tools like Adobe Photoshop and Canva"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Python",
+      "description": "Expertise in utilizing Python for various applications, from web development to data analysis, and efficiency to solve complex problems"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Developed a user-friendly website for property listings, integrating search functionalities and responsive design for seamless browsing",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Designed and implemented an interactive dashboard for data visualization and analytics, offering insights at a glance for efficient decision-making",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Created a streamlined rental management system, simplifying property listing, tenant communication, and payment tracking for landlords",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Great job! Very impressed with the user-friendly design and smooth navigation",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Fantastic work on the dashboard! It makes data analysis a breeze",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "The rental management system is a game-changer. So much easier to use compared to others I've tried",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
