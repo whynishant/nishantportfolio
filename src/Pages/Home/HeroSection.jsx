@@ -19,6 +19,19 @@ export default function HeroSection() {
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
       </div>
+       {/* Spotify Playlist */}
+           <div className="spotify-playlist">
+        <iframe
+          style={{ borderRadius: '12px', position: 'fixed', bottom: '10px', right: '10px', zIndex: '1000' }}
+          src="https://open.spotify.com/embed/playlist/7Bm4RkvxPlmoDyxH1Q5hZG?utm_source=generator&theme=0"
+          width="300"
+          height="150"
+          frameBorder="0"
+          allowFullScreen
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+        ></iframe>
+      </div>
     </section>
   );
 }
