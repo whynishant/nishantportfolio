@@ -27,6 +27,7 @@ export default function MyPortfolio() {
             </svg>
             Visit My GitHub
           </button>
+            </a>
         </div>
       </div>
       <div className="portfolio--section--container">
