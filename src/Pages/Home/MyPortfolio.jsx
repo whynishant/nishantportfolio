@@ -9,6 +9,7 @@ export default function MyPortfolio() {
           <h2 className="section--heading">My Portfolio</h2>
         </div>
         <div>
+          <a href="https://github.com/whynishant">
           <button className="btn btn-github">
             <svg
               xmlns="http://www.w3.org/2000/svg"
