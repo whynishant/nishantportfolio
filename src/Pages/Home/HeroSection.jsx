@@ -23,7 +23,7 @@ export default function HeroSection() {
            <div className="spotify-playlist">
         <iframe
           style={{ borderRadius: '12px', position: 'fixed', bottom: '10px', right: '10px', zIndex: '1000' }}
-          src="https://open.spotify.com/embed/playlist/00IvCvQNm1guhv19gSc5ef?utm_source=generator&theme=0"
+          src="https://open.spotify.com/embed/playlist/1Vi7vReqfgQRoLrEsnR0KO?utm_source=generator&theme=0"
           width="300"
           height="150"
           frameBorder="0"
